@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MUo8S77AcZY97M15JnamRe5ejncaOhOf8uWScvotjJ8=",
+  "Source": "Sygno.Booking.Api",
+  "BasePath": "_content/Sygno.Booking.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

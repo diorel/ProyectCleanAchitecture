@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\gitSygno\\ProyectCleanAchitecture\\Sygno.Booking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D38774FE-6358-4924-9572-BC8C70674ED4}|Sygno.Booking.Persistence\\Sygno.Booking.Persistence.csproj|c:\\gitsygno\\proyectcleanachitecture\\sygno.booking\\sygno.booking.persistence\\sygno.booking.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D38774FE-6358-4924-9572-BC8C70674ED4}|Sygno.Booking.Persistence\\Sygno.Booking.Persistence.csproj|solutionrelative:sygno.booking.persistence\\sygno.booking.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8B344C-3FEE-4408-9C4E-F96D5E3FAA42}|Sygno.Booking.External\\Sygno.Booking.External.csproj|c:\\gitsygno\\proyectcleanachitecture\\sygno.booking\\sygno.booking.external\\sygno.booking.external.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD8B344C-3FEE-4408-9C4E-F96D5E3FAA42}|Sygno.Booking.External\\Sygno.Booking.External.csproj|solutionrelative:sygno.booking.external\\sygno.booking.external.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A2A0AD-9D77-4A22-A061-D920BC5BC629}|Sygno.Booking.Api\\Sygno.Booking.Api.csproj|c:\\gitsygno\\proyectcleanachitecture\\sygno.booking\\sygno.booking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94A2A0AD-9D77-4A22-A061-D920BC5BC629}|Sygno.Booking.Api\\Sygno.Booking.Api.csproj|solutionrelative:sygno.booking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90E02C8-6E00-470E-BC56-34E95EF76133}|Sygno.Booking.Domain\\Sygno.Booking.Domain.csproj|c:\\gitsygno\\proyectcleanachitecture\\sygno.booking\\sygno.booking.domain\\enums\\bookingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90E02C8-6E00-470E-BC56-34E95EF76133}|Sygno.Booking.Domain\\Sygno.Booking.Domain.csproj|solutionrelative:sygno.booking.domain\\enums\\bookingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90E02C8-6E00-470E-BC56-34E95EF76133}|Sygno.Booking.Domain\\Sygno.Booking.Domain.csproj|c:\\gitsygno\\proyectcleanachitecture\\sygno.booking\\sygno.booking.domain\\entities\\booking\\bookingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90E02C8-6E00-470E-BC56-34E95EF76133}|Sygno.Booking.Domain\\Sygno.Booking.Domain.csproj|solutionrelative:sygno.booking.domain\\entities\\booking\\bookingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90E02C8-6E00-470E-BC56-34E95EF76133}|Sygno.Booking.Domain\\Sygno.Booking.Domain.csproj|c:\\gitsygno\\proyectcleanachitecture\\sygno.booking\\sygno.booking.domain\\entities\\customer\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90E02C8-6E00-470E-BC56-34E95EF76133}|Sygno.Booking.Domain\\Sygno.Booking.Domain.csproj|solutionrelative:sygno.booking.domain\\entities\\customer\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90E02C8-6E00-470E-BC56-34E95EF76133}|Sygno.Booking.Domain\\Sygno.Booking.Domain.csproj|c:\\gitsygno\\proyectcleanachitecture\\sygno.booking\\sygno.booking.domain\\entities\\user\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90E02C8-6E00-470E-BC56-34E95EF76133}|Sygno.Booking.Domain\\Sygno.Booking.Domain.csproj|solutionrelative:sygno.booking.domain\\entities\\user\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sygno.Booking.Persistence",
+              "DocumentMoniker": "C:\\gitSygno\\ProyectCleanAchitecture\\Sygno.Booking\\Sygno.Booking.Persistence\\Sygno.Booking.Persistence.csproj",
+              "RelativeDocumentMoniker": "Sygno.Booking.Persistence\\Sygno.Booking.Persistence.csproj",
+              "ToolTip": "C:\\gitSygno\\ProyectCleanAchitecture\\Sygno.Booking\\Sygno.Booking.Persistence\\Sygno.Booking.Persistence.csproj",
+              "RelativeToolTip": "Sygno.Booking.Persistence\\Sygno.Booking.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T18:51:47.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sygno.Booking.External",
+              "DocumentMoniker": "C:\\gitSygno\\ProyectCleanAchitecture\\Sygno.Booking\\Sygno.Booking.External\\Sygno.Booking.External.csproj",
+              "RelativeDocumentMoniker": "Sygno.Booking.External\\Sygno.Booking.External.csproj",
+              "ToolTip": "C:\\gitSygno\\ProyectCleanAchitecture\\Sygno.Booking\\Sygno.Booking.External\\Sygno.Booking.External.csproj",
+              "RelativeToolTip": "Sygno.Booking.External\\Sygno.Booking.External.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T18:16:27.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\gitSygno\\ProyectCleanAchitecture\\Sygno.Booking\\Sygno.Booking.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Sygno.Booking.Api\\appsettings.json",
+              "ToolTip": "C:\\gitSygno\\ProyectCleanAchitecture\\Sygno.Booking\\Sygno.Booking.Api\\appsettings.json",
+              "RelativeToolTip": "Sygno.Booking.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T17:38:39.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingType.cs",
+              "DocumentMoniker": "C:\\gitSygno\\ProyectCleanAchitecture\\Sygno.Booking\\Sygno.Booking.Domain\\Enums\\BookingType.cs",
+              "RelativeDocumentMoniker": "Sygno.Booking.Domain\\Enums\\BookingType.cs",
+              "ToolTip": "C:\\gitSygno\\ProyectCleanAchitecture\\Sygno.Booking\\Sygno.Booking.Domain\\Enums\\BookingType.cs",
+              "RelativeToolTip": "Sygno.Booking.Domain\\Enums\\BookingType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T04:35:09.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingEntity.cs",
+              "DocumentMoniker": "C:\\gitSygno\\ProyectCleanAchitecture\\Sygno.Booking\\Sygno.Booking.Domain\\Entities\\Booking\\BookingEntity.cs",
+              "RelativeDocumentMoniker": "Sygno.Booking.Domain\\Entities\\Booking\\BookingEntity.cs",
+              "ToolTip": "C:\\gitSygno\\ProyectCleanAchitecture\\Sygno.Booking\\Sygno.Booking.Domain\\Entities\\Booking\\BookingEntity.cs",
+              "RelativeToolTip": "Sygno.Booking.Domain\\Entities\\Booking\\BookingEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T04:23:48.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerEntity.cs",
+              "DocumentMoniker": "C:\\gitSygno\\ProyectCleanAchitecture\\Sygno.Booking\\Sygno.Booking.Domain\\Entities\\Customer\\CustomerEntity.cs",
+              "RelativeDocumentMoniker": "Sygno.Booking.Domain\\Entities\\Customer\\CustomerEntity.cs",
+              "ToolTip": "C:\\gitSygno\\ProyectCleanAchitecture\\Sygno.Booking\\Sygno.Booking.Domain\\Entities\\Customer\\CustomerEntity.cs",
+              "RelativeToolTip": "Sygno.Booking.Domain\\Entities\\Customer\\CustomerEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T04:19:44.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\gitSygno\\ProyectCleanAchitecture\\Sygno.Booking\\Sygno.Booking.Domain\\Entities\\User\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Sygno.Booking.Domain\\Entities\\User\\UserEntity.cs",
+              "ToolTip": "C:\\gitSygno\\ProyectCleanAchitecture\\Sygno.Booking\\Sygno.Booking.Domain\\Entities\\User\\UserEntity.cs",
+              "RelativeToolTip": "Sygno.Booking.Domain\\Entities\\User\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T04:14:45.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Persistence\bin\Debug\net8.0\Sygno.Booking.Persistence.deps.json
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Persistence\bin\Debug\net8.0\Sygno.Booking.Persistence.dll
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Persistence\bin\Debug\net8.0\Sygno.Booking.Persistence.pdb
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Persistence\obj\Debug\net8.0\Sygno.Booking.Persistence.csproj.AssemblyReference.cache
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Persistence\obj\Debug\net8.0\Sygno.Booking.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Persistence\obj\Debug\net8.0\Sygno.Booking.Persistence.AssemblyInfoInputs.cache
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Persistence\obj\Debug\net8.0\Sygno.Booking.Persistence.AssemblyInfo.cs
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Persistence\obj\Debug\net8.0\Sygno.Booking.Persistence.csproj.CoreCompileInputs.cache
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Persistence\obj\Debug\net8.0\Sygno.Booking.Persistence.sourcelink.json
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Persistence\obj\Debug\net8.0\Sygno.Booking.Persistence.dll
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Persistence\obj\Debug\net8.0\refint\Sygno.Booking.Persistence.dll
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Persistence\obj\Debug\net8.0\Sygno.Booking.Persistence.pdb
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Persistence\obj\Debug\net8.0\ref\Sygno.Booking.Persistence.dll

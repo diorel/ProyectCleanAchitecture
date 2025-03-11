@@ -1,0 +1,12 @@
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Domain\bin\Debug\net8.0\Sygno.Booking.Domain.deps.json
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Domain\bin\Debug\net8.0\Sygno.Booking.Domain.dll
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Domain\bin\Debug\net8.0\Sygno.Booking.Domain.pdb
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Domain\obj\Debug\net8.0\Sygno.Booking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Domain\obj\Debug\net8.0\Sygno.Booking.Domain.AssemblyInfoInputs.cache
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Domain\obj\Debug\net8.0\Sygno.Booking.Domain.AssemblyInfo.cs
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Domain\obj\Debug\net8.0\Sygno.Booking.Domain.csproj.CoreCompileInputs.cache
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Domain\obj\Debug\net8.0\Sygno.Booking.Domain.sourcelink.json
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Domain\obj\Debug\net8.0\Sygno.Booking.Domain.dll
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Domain\obj\Debug\net8.0\refint\Sygno.Booking.Domain.dll
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Domain\obj\Debug\net8.0\Sygno.Booking.Domain.pdb
+C:\gitSygno\ProyectCleanAchitecture\Sygno.Booking\Sygno.Booking.Domain\obj\Debug\net8.0\ref\Sygno.Booking.Domain.dll

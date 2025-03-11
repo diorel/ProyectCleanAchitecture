@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sygno.Booking.Api.props" />
+</Project>
